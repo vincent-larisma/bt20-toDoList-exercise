@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+main {
+	display: grid;
+	place-content: center;
+}
+
+.grid-container {
+	display: grid;
+	justify-content: center;
+	border: 1px solid black;
+	width: 50vmin;
+	height: 70vmin;
+}
+
+.todolist {
+	overflow-y: auto;
+}
