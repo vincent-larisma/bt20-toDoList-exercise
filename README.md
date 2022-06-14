@@ -11,4 +11,4 @@
 
 ## Link
 
-[todoList] (https://vincent-larisma.github.io/bt20-toDoList-exercise/todolist)
+[todoList](https://vincent-larisma.github.io/bt20-toDoList-exercise/todolist)
